@@ -1,0 +1,7 @@
+*.jar
+*.class
+*.classpath
+*.MF
+*.project
+/.settings/
+/build/
